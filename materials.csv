@@ -1,0 +1,7 @@
+Material,k,Density,Cp,Emissivity
+Aluminum 6061,167,2700,896,0.09
+Titanium Ti-6Al-4V,6.7,4430,560,0.30
+Stainless Steel 304,16.2,8000,500,0.59
+Inconel 718,11.4,8190,435,0.65
+Copper,401,8960,385,0.03
+Carbon Composite,5,1600,710,0.85
